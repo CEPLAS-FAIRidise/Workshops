@@ -1,0 +1,18 @@
+﻿Sample Name,Sample.Type,Compound,ISTD,Resp,ISTD Resp,Resp Ratio
+blank,Blank,alpha-Alanine,Ribitol,112864,17480,6.4568
+blank,Blank,alpha-Alanine,Ribitol,2273,364908,0.0062
+Std.Mix,Sample,alpha-Alanine,Ribitol,571604,1629287,0.3508
+1,Sample,alpha-Alanine,Ribitol,928129,265784,3.4920
+2,Sample,alpha-Alanine,Ribitol,837960,269291,3.1117
+4,Sample,alpha-Alanine,Ribitol,703509,371331,1.8946
+5,Sample,alpha-Alanine,Ribitol,199051,253342,0.7857
+6,Sample,alpha-Alanine,Ribitol,394567,244619,1.6130
+7,Sample,alpha-Alanine,Ribitol,634464,321575,1.9730
+8,Sample,alpha-Alanine,Ribitol,582363,425352,1.3691
+9,Sample,alpha-Alanine,Ribitol,640341,279546,2.2906
+blank,Blank,alpha-Alanine,Ribitol,142108,250949,0.5663
+blank,Blank,alpha-Alanine,Ribitol,2063,340602,0.0061
+10,Sample,alpha-Alanine,Ribitol,135491,420811,0.3220
+11,Sample,alpha-Alanine,Ribitol,188706,376269,0.5015
+12,Sample,alpha-Alanine,Ribitol,191645,369195,0.5191
+3,Sample,alpha-Alanine,Ribitol,513117,261950,1.9588

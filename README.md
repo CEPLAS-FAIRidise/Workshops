@@ -14,19 +14,18 @@ We'll share FAIR supporting material here.
 
 - [20201209_PRE_elabFTW_Catalog_AGWeber_compressed.pdf](./20201209_PRE_elabFTW_Catalog_AGWeber_compressed.pdf)
 
-Presentation to introduce the electronic lab notebook (ELN) software 'elabFTW' within the
-institute of Plant Biochemistry @ HHU (Prof. Andreas Weber). 
-Focus on starting a lab cataloging system. 
+Presentation to introduce the electronic lab notebook (ELN) software **elabFTW** within the
+institute of Plant Biochemistry @ HHU (Prof. Andreas Weber) with the focus on starting a lab cataloging system. 
 
 - [20201120_DataVizR_Dominik](./20201120_DataVizR_Dominik/)
 
-Part of CEPLAS 2020 grad school module: 
-Data visualisation in R
+Part of CEPLAS 2020 grad school module:  
+RMarkdown produced example code for "Data visualisation in R"
 
 - [20201127_PRE_GoodDMPractices_Public.pdf](./20201127_PRE_GoodDMPractices_Public.pdf)
 
-Part of CEPLAS 2020 grad school module: 
-"Good Data Management Practices"
+Part of CEPLAS 2020 grad school module:  
+Presentation on "Good Data Management Practices"
 
 - [20200925_PRE_DMPWorkshopPublic.pdf](./20200925_PRE_DMPWorkshopPublic.pdf)
 

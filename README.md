@@ -1,4 +1,4 @@
-# CEPLAS FAIRidise
+# Workshops & Tutorials
 
 This is the repository of the [CEPLAS Data Science and Data Management](https://www.ceplas.eu/en/research/data-science-and-data-management/) Team. 
 
